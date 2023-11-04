@@ -5,7 +5,8 @@ int main()
     extern int a;
     extern int b;
     extern int c;	
-    printf("%d, %d, %d", c, a, b);
+    c = a + b;
+    printf("%d,\n", c);
 
 }
 
