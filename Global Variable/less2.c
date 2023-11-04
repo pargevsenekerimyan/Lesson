@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int c = 3000;
+int c;
